@@ -14,7 +14,8 @@ def write_todos(todos_arg, filepath=FILEPATH):
         f.writelines(todos_arg)
 
 
+# Testing the App locally before exporting any function.
 if __name__ == "__main__":
     print("Test dummy data: Import from the function module.")
     print(get_todos())
-    print(FILEPATH)
+    print(f"The FILEPATH name is: {FILEPATH}")
