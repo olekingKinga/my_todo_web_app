@@ -1,0 +1,14 @@
+[theme]
+font = "serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
+style = "italic"
+baseFontSize=18
+
+
+[theme.sidebar]
+font = "sans-serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
+weight = 500
+baseFontSize=16

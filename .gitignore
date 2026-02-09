@@ -4,6 +4,8 @@
 .idea/
 reserved_pages/pages
 static
+tools
+reports
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
